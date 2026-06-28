@@ -1,10 +1,10 @@
 **SmartMeal AI**
 
-📖 Project Overview
+📖**Project Overview**
 
 SmartMeal AI is a machine learning project that analyzes restaurant/hotel food data to improve demand prediction and reduce food waste.It uses data preprocessing, cleaning, and model training to generate insights.
 
-🚀 Features
+🚀**Features**
 
 Data cleaning of messy dataset
 
@@ -18,13 +18,13 @@ Model evaluation
 
 Model prediction
 
-📂 Dataset
+📂**Dataset**
 
 Raw Dataset: Contains unprocessed/messy data
 
 Clean Dataset: Processed and ready for model training
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 Python
 
@@ -34,7 +34,7 @@ Scikit-learn
 
 Google Colab
 
-⚙️ Workflow
+⚙️**Workflow**
 
 Load raw dataset
 
@@ -48,11 +48,11 @@ Evaluate performance
 
 Save final model
 
-📊 Model Performance
+📊 **Model Performance**
 
 A Random Forest model was trained using the cleaned dataset. The model was evaluated to analyze its prediction capability and overall effectiveness on the dataset.
 
-📁 Files in Repository
+📁**Files in Repository**
 
 messy_restaurant_food_waste_dataset.csv – Raw dataset
 
@@ -62,7 +62,7 @@ SmartMeal_AI.ipynb – Training code
 
 README.md – Project documentation
 
-🔥 Future Improvements
+🔥**Future Improvements**
 
 Improve model accuracy
 
@@ -70,6 +70,6 @@ Deploy using Flask / Streamlit
 
 Add real-time prediction system
 
-👨‍💻 Author
+👨‍💻**Author**
 
 Halanda Mulakkayala
